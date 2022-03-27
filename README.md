@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Zubair Ahmed</h1>
-<h3>I'm a engineer, an entrepreneur, an ambitious tweaker, author, traveller and over-scrutinizer 😝.</h3>
+<h3>I'm an engineer, an entrepreneur, an ambitious tweaker, author, traveller and over-scrutinizer 😝.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubair1024&label=Profile%20views&color=0e75b6&style=flat" alt="zubair1024" /> </p>
 
